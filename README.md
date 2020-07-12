@@ -1,5 +1,5 @@
 # How To: Make a commit to a repository using the Mac OS Terminal
-This is how you commit a change to a github repository.
+A beginner friendly guide for those who are just getting started with Git. This is how you commit a change to a github repository.
 
 ## Requirements
 1. Beginner Github user
