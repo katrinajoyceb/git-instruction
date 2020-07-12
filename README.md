@@ -20,12 +20,13 @@ git clone <url-to-your-repo>
 ```
 ls
 ```
+![git clone](https://github.com/katrinajoyceb/git-instruction/blob/master/picture/06.png)
 Here you can see that the project you have just cloned is the folder *git-instructions*, in the example's case.
 ### To go to the directory of your project, use the command:
 ```
 cd <name-of-your-project>
 ```
-![git clone](https://github.com/katrinajoyceb/git-instruction/blob/master/picture/06.png)
+![git clone](https://github.com/katrinajoyceb/git-instruction/blob/master/picture/cd.png)
 
 ## Create a file
 Now that you're inside of the project, you can create files or modify files. 
