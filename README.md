@@ -2,8 +2,8 @@
 This is how you commit a change to a github repository.
 
 ## Requirements
-1. Git 
-2. 
+1. Beginner Github user
+2. Some knowledge of the Terminal
 
 ## Clone your repository
 ### Find the url for the repository you want to work with. 
